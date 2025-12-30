@@ -1,0 +1,13 @@
+{
+  "name": "my-plugins",
+  "owner": {
+    "name": "Ohjaeyeop"
+  },
+  "plugins": [
+    {
+      "name": "readme-plugin",
+      "source": "./",
+      "description": "Adds a /readme command for creating README files."
+    }
+  ]
+}
