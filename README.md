@@ -13,6 +13,10 @@ Claude Code용 플러그인으로, 프로젝트 분석을 통해 README.md 파�
 Claude Code에서 플러그인을 설치합니다:
 
 ```bash
+claude plugin marketplace add Ohjaeyeop/claude-plugin-test
+```
+
+```bash
 claude plugin install readme-plugin@my-plugins
 ```
 
